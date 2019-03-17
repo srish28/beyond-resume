@@ -1,8 +1,8 @@
 # beyond-resume <br>
-__A Machine Learning Based Approach to Hiring Qualified Individuals__<br>
-This implementation is something which profits both the employer and the applicant. Below are some the key highlights of the implmentation - 
+__A Machine Learning Based Approach for Hiring Qualified Individuals__<br>
+This implementation profits both the employer and the applicant. Below are some the key highlights of the implmentation - 
 * MongoDB based backend provides seamless and fast querying and information retrieval
-* An enhanced job-descrition to cater other possible areas of expertise which might be closely linked to the ones mentioned in the description.
+* An enhanced job-descrition to cater to other possible areas of expertise which might be closely linked to the ones mentioned in the description.
 * A comparative measure of applicants abilities and skills with the requirements of the position.
 * A Flask based web application which has been integrated with both Python and MongoDB.
 
