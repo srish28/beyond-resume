@@ -21,6 +21,8 @@ Some key steps involved in this process include -
 Using the data gathered, we perform the following measures of evaluation of an applicant - 
 * Based on the applicant skills and how closely it is related to the skills identified from the job description, we provide a score to their skills through topological measures of network analysis
 * The top 15 skills of the applicant which align with the job description are returned
+__Skills pertaining to the Data Science Job Description__<br>
+![Sample Plot](https://github.com/srish28/beyond-resume/blob/dev/templates/sample_plot.png)
 
 ## Applicant Friendly Features
 * The web application lets the applicant know if there is a very low match between his expertise and the job's required skill-set.
