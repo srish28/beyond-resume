@@ -28,6 +28,13 @@ __Skills pertaining to the Data Science Job Description__<br>
 * The web application lets the applicant know if there is a very low match between his expertise and the job's required skill-set.
 * Based on the applicant's skills, the application is capable of suggesting other jobs which are in the system which are a better match to their skill-set
 
+__First Page of the Website__
+![Sample Plot](https://github.com/srish28/beyond-resume/blob/dev/templates/beyon-resume-1page.png)
+<br>
+__Results Page after Uploading your Resume__
+![Sample Plot](https://github.com/srish28/beyond-resume/blob/dev/templates/beyon-resume-result.png)
+<br>
+
 ## Conclusion
 Some of the key points which can be inferred from our development are - 
 * The development is highly scalable with its ability to improve based on the dataset used to create the backend using NLP and Textual data mining techniques.
